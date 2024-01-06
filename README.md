@@ -19,4 +19,4 @@ A dynamic news experience built with React & Bootstrap, offering personalized ca
 > - HTML
 > - News API
 
-thank you for taking the time and reading me I hope this helped you set up and run the project
+thank you for taking the time and reading me 
