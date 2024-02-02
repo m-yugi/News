@@ -61,6 +61,7 @@ export default class NewsHeader extends Component {
         currentpage: this.state.currentpage + 1,
         title: article.title,
         description: article.description,
+        newsurl: article.url,
         backgroundImage: article.urlToImage,
         loading: false
       });
@@ -75,6 +76,7 @@ export default class NewsHeader extends Component {
         currentpage: this.state.currentpage - 1,
         title: article.title,
         description: article.description,
+        newsurl: article.url,
         backgroundImage: article.urlToImage,
         loading: false
       });
