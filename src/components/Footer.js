@@ -11,7 +11,7 @@ export default class Footer extends Component {
                 <div className="column">
                     <h3>Quick Links</h3>
                     <ul>
-                        <li><a href="/">About Us</a></li>
+                        <li><a href="/">hello how are you</a></li>
                         <li><a href="/">Contact Us</a></li>
                         <li><a href="/">Terms of Use</a></li>
                         <li><a href="/">Privacy Policy</a></li>
